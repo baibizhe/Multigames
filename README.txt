@@ -11,3 +11,8 @@ b) The application can move from any page to any other page
 c) Easy to extend and expand code
 e) Self documenting code. Nothing is hidden more than a file away.
 
+Some features haven't finished:
+Rock paper Scissor and Frog game.
+The update information action in profile page .
+The all stats page should contain all information, like a dashboard.
+
